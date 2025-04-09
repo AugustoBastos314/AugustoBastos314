@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Minha foto](./all.gif)
 
 <!--
 **AugustoBastos314/AugustoBastos314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
